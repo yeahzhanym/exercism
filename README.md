@@ -1,6 +1,7 @@
-# exercism
+# exercism currently tracks: Go
 
 ---
 
-##Solved
-\*\*Hello World
+## Solved
+
+- Hello World
