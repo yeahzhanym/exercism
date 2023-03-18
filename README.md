@@ -4,8 +4,8 @@
 
 # Solved
 
-- [x] https://github.com/yeahzhanym/exercism/hello-world
-- [] 2. Lasagna
-- [] 3.
-- [] 4.
-- [] 5.
+- [x] 1. Hello, World!
+- [ ] 2. Lasagna
+- [ ] 3.
+- [ ] 4.
+- [ ] 5.
