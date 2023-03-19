@@ -1,8 +1,6 @@
-# exercism currently tracks: Go
+## exercism currently tracks: Go
 
----
-
-# Solved
+### Solved
 
 - [x] 1. Hello, World!
 - [ ] 2. Lasagna
