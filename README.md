@@ -2,11 +2,11 @@
 
 ### Currently Solving: Go
 
-[ ] Go
-[ ] Bash
-[ ] WebAssembly
-[ ] Rust
-[ ] TypeScript
-[ ] JavaScript
-[ ] C#
-[ ] F#
+- [ ] Go
+- [ ] Bash
+- [ ] WebAssembly
+- [ ] Rust
+- [ ] TypeScript
+- [ ] JavaScript
+- [ ] C#
+- [ ] F#
