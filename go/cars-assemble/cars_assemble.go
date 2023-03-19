@@ -14,7 +14,7 @@ func CalculateWorkingCarsPerMinute(productionRate int, successRate float64) int 
 }
 
 // CalculateCost works out the cost of producing the given number of cars.
-// Думал что 37 надо строго находить 3 к десяткам и отдельно 7, но это оказалось неправильным.
+// Думал что для 37 надо строго находить 3 к десяткам и отдельно 7, но это оказалось неправильным.
 func CalculateCost(carsCount int) uint {
 	if carsCount%10 == 0 {
 		return uint((carsCount / 10) * 95000)
